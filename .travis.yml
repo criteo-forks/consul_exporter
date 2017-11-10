@@ -18,10 +18,6 @@ before_deploy:
 - promu crossbuild
 - promu crossbuild tarballs
 
-branches:
-  only:
-  - criteo
-
 deploy:
   provider: releases
   api_key:

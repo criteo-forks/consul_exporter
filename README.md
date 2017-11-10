@@ -1,4 +1,4 @@
-# Consul Exporter [![Build Status](https://travis-ci.org/prometheus/consul_exporter.svg)][travis]
+# Consul Exporter (Criteo-fork) [![Build Status](https://travis-ci.org/criteo-forks/consul_exporter.svg)][travis]
 
 [![CircleCI](https://circleci.com/gh/prometheus/consul_exporter/tree/master.svg?style=shield)][circleci]
 [![Docker Repository on Quay](https://quay.io/repository/prometheus/consul-exporter/status)][quay]
